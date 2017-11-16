@@ -1,0 +1,49 @@
+.red-box{
+  position: absolute;
+  background: red;
+  width: 400px;
+  height: 400px;
+  left: 280px;
+  top: 100px;
+}
+
+.purple-box{
+  position: relative;
+  background: purple;
+  width: 200px;
+  height: 200px;
+  left:100px;
+  top: 100px;
+}
+
+.yellow-box{
+  position: relative;
+  background: yellow;
+  width: 100px;
+  height: 100px;
+}
+
+.blue-box{
+  position: absolute;
+  background: blue;
+  width: 400px;
+  height: 400px;
+  top: 600px;
+  left: 280px;
+  margin-bottom: 300px;
+}
+
+.green-box{
+  position: relative;
+  background: green;
+  width: 200px;
+  height: 200px;
+  left: 100px;
+}
+
+.black-box{
+  position: relative;
+  background: black;
+  width: 100px;
+  height: 100px;
+}
